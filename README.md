@@ -7,3 +7,5 @@ HAM10000 데이터셋에 여러 영상처리 알고리즘 적용후 학습, 테�
 main.py : 학습,테스트 코드
 
 edgeEnhance.py : HAM10000 데이터셋에 edgeEnhancement sharpening 적용,
+
+contrast.py : apply contrast enhance to HAM10000 dataset
